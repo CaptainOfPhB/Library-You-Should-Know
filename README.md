@@ -12,7 +12,7 @@ A collection of libraries you should know, mostly for front-end developer.
 ### React UI
 
 - [antd](https://github.com/ant-design/ant-design): An enterprise-class UI design language and React UI library.
-- [material-io](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [material-ui](https://github.com/mui/material-ui): MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 ### Vue UI
 
