@@ -1,7 +1,5 @@
 [![pages-build-deployment](https://github.com/CaptainOfPhB/Library-You-Should-Know/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/CaptainOfPhB/Library-You-Should-Know/actions/workflows/pages/pages-build-deployment)
 
-# Library-You-Should-Know
-
 A collection of libraries you should know, mostly for front-end developer.
 
 ## TypeScript
