@@ -59,6 +59,14 @@ A collection of libraries you should know, mostly for front-end developer.
 
 - [vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps.
 
+### Vue3 Ecosystem(Store, Router, etc.)
+
+- [vue-router](https://github.com/vuejs/router): The official router for Vue.js.
+- [pinia](https://github.com/vuejs/pinia): Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
+- [vue-devtools](https://github.com/vuejs/devtools): Browser devtools extension for debugging Vue.js applications.
+- [create-vue](https://github.com/vuejs/create-vue): The recommended way to start a Vite-powered Vue project.
+- [awesome-vue](https://github.com/vuejs/awesome-vue): A curated list of awesome things related to Vue.js
+
 ### Cross-Platform UI Toolkit
 
 - [@ionic/cli](https://github.com/ionic-team/ionic-framework): A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -67,6 +75,10 @@ A collection of libraries you should know, mostly for front-end developer.
 
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 
+### Git
+
+- [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories.
+
 ### Mock
 
 - [Mocks Server](https://github.com/mocks-server/main): Node.js mock server running live, interactive mocks in place of real APIs.
@@ -74,6 +86,7 @@ A collection of libraries you should know, mostly for front-end developer.
 ### Static Site Generator
 
 - [Astro](https://github.com/withastro/astro): The all-in-one web framework designed for speed.
+- [vitepress](https://github.com/vuejs/vitepress): Vite & Vue powered static site generator.
 
 ### Web Server
 
